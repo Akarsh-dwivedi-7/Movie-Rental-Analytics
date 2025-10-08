@@ -80,6 +80,6 @@ The goal was to understand customer behavior, film inventory, staff efficiency, 
 
 👨‍💻 Author  
 *Akarsh Dwivedi*  
-🔗 [LinkedIn](https://www.linkedin.com/in/akarsh-dwivedi)  
+🔗 [LinkedIn](https://www.linkedin.com/in/akarshdwivedi/)  
 
 ⭐ If you liked this project, don’t forget to star the repository!
